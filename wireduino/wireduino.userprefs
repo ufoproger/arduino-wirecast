@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="wireduino\wireduino.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wireduino\Program.cs">
+    <Files>
+      <File FileName="wireduino\Program.cs" Line="39" Column="3" />
+      <File FileName="wireduino\WirecastWrapper\WirecastDocument.cs" Line="58" Column="36" />
+      <File FileName="wireduino\WirecastWrapper\WirecastLayer.cs" Line="154" Column="36" />
+      <File FileName="wireduino\WirecastWrapper\Wirecast.cs" Line="66" Column="89" />
+      <File FileName="wireduino\WirecastWrapper\WirecastShot.cs" Line="23" Column="81" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
